@@ -21,7 +21,7 @@ Accessing the contents of a PSTFile is a matter of following the folder structur
 
 ```java
 package example;
-import com.pff.*;
+import ai.scaia.pstExtratctor.PSTException;import ai.scaia.pstExtratctor.PSTFile;import ai.scaia.pstExtratctor.PSTFolder;import ai.scaia.pstExtratctor.PSTMessage;
 import java.util.*;
 
 public class Test {

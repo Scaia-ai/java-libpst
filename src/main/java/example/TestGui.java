@@ -39,7 +39,7 @@ import javax.swing.table.AbstractTableModel;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeCellRenderer;
 
-import com.pff.*;
+import ai.scaia.pstExtratctor.*;
 
 /**
  * @author toweruser

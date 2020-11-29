@@ -2,10 +2,10 @@ package example;
 
 import java.util.Vector;
 
-import com.pff.PSTException;
-import com.pff.PSTFile;
-import com.pff.PSTFolder;
-import com.pff.PSTMessage;
+import ai.scaia.pstExtratctor.PSTException;
+import ai.scaia.pstExtratctor.PSTFile;
+import ai.scaia.pstExtratctor.PSTFolder;
+import ai.scaia.pstExtratctor.PSTMessage;
 
 public class Test {
     public static void main(final String[] args) {
